@@ -1,3 +1,5 @@
+[![API Testing](https://img.shields.io/badge/API%20Test-RapidAPI-blue.svg)](https://rapidapi.com/package/EasyPostTracking/functions?utm_source=EasyPostGithub&utm_medium=button&utm_content=Vender_GitHub)
+
 Installation
 ------------------
 
